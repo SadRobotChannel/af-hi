@@ -14,32 +14,30 @@ URL: https://hi.all-faucets.com/index.html
 पढ़ना जारी रखें: <a href="https://hi.all-faucets.com/daily/2019/12/12/index.html">बिटकॉइन नल के साथ शुरू करना</a>.
 
 ---
-#### 2019 की पसंदीदा नल
+#### सारांश में 2019
 
-जब हमने पहली बार इस वेबसाइट को प्रकाशित किया था तब से बहुत कुछ बदल गया था। एक, बिटकॉइन की कीमत लगभग 3,500 अमरीकी डालर से बढ़कर 10,000 अमरीकी डालर से अधिक हो गई जो कभी-कभी 12 या 13 हज़ार अमेरिकी डॉलर तक पहुंच जाती है। मूल्य में इस तरह की वृद्धि ने कई फ़ेबेट वेबसाइटों को व्यवसाय से बाहर कर दिया, क्योंकि वे वादा किए गए पुरस्कारों को नहीं दे सकते थे। कई आपके बटुए में राशियों को वितरित किए बिना ऑफ़लाइन हो गए हैं, इस प्रकार केवल आपके पैसे चुरा रहे हैं। ये वे जोखिम हैं जिनके बारे में आपको जानकारी होनी चाहिए और अपना समय या अपना पैसा क्रिप्टोक्यूरेंसी संबंधित सेवाओं में निवेश करते समय स्वीकार करना चाहिए।
+साल 2019 का क्रिप्टोक्यूरेंसी नल पर विनाशकारी प्रभाव पड़ा। इंटरनेट पर सैकड़ों faucets साइटें दिखाई दीं, क्योंकि वर्ष की शुरुआत 3,500 USD की सीमा में बिटकॉइन की कीमत के साथ हुई थी। फिर, बीटीसी की कीमत 10,000 अमरीकी डालर से अधिक होने के कारण कभी-कभी 12 या 13 हज़ार अमेरिकी डॉलर तक पहुंच जाती है, अधिकांश साइटें बंद हो जाती हैं या उनके इंटरफेस बेकार हो जाते हैं (क्लिक और विज्ञापनों के साथ ओवरलोडिंग)।
 
-फिर भी, निम्नलिखित नल साइटें अपने सदस्यों के प्रति वफादार रहती हैं और मुक्त सतोशी वितरण जारी रखती हैं:
+क्रिप्टो मूल्य में वृद्धि, जो हमने 2019 के मूल्य के मध्य में देखी थी, उन्होंने कई नल वेबसाइटों को व्यवसाय से बाहर कर दिया था, क्योंकि वे वादा किए गए पुरस्कारों को दूर नहीं कर सकते थे। कई आपके बटुए में राशियों को वितरित किए बिना ऑफ़लाइन हो गए, इस प्रकार बस आपके कमाए हुए धन को चुरा लिया। ये वे जोखिम हैं जिनके बारे में आपको जानकारी होना चाहिए और नल संबंधी सेवाओं में अपना समय निवेश करते समय स्वीकार करना चाहिए।
 
-- <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a>
-- <a href="http://bit.ly/www-btcfox" target="_blank">BtcFox</a>
-- <a href="http://bit.ly/www-btcpop" target="_blank">BTCPop</a>
-- <a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a>
-- <a href="http://bit.ly/www-cryptofarmer" target="_blank">Crypto Farmer</a>
-- <a href="http://bit.ly/www-cryptomininggame" target="_blank">Crypto Mining Game</a>
-- <a href="http://bit.ly/www-febbit" target="_blank">Febbit</a>
-- <a href="http://bit.ly/www-firefaucet" target="_blank">Fire Faucet</a>
-- <a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a>
-- <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a>
-- <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a>
+---
+#### क्रिप्टो नल जो अभी भी 2020 में काम करते हैं
+
+हम निम्नलिखित 11 नल साइटों की सलाह देते हैं। वे अपने सदस्यों के प्रति वफादार रहते हैं और मुफ्त सिक्कों को जारी रखते हैं:
+
+1. <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a> - पेड 2 सर्फ साइट
+2. <a href="http://bit.ly/www-btcfox" target="_blank">BtcFox</a> - एक ब्याज के साथ एक घंटे का नल
+3. <a href="http://bit.ly/www-btcpop" target="_blank">BTCPop</a> - हर 30 मिनट में दावा करें, Altcoins ज्यादातर, स्टेकिंग
+4. <a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a> - एक ब्याज के साथ एक घंटे का नल
+5. <a href="http://bit.ly/www-cryptofarmer" target="_blank">Crypto Farmer</a> - क्रिप्टो नल खेल
+6. <a href="http://bit.ly/www-cryptomininggame" target="_blank">Crypto Mining Game</a> - क्रिप्टो नल खेल
+7. <a href="http://bit.ly/www-febbit" target="_blank">Febbit</a> - क्रिप्टो नल खेल
+8. <a href="http://bit.ly/www-firefaucet" target="_blank">Fire Faucet</a> - एक ऑटोफ्यूकेट
+9. <a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a> - एक ब्याज के साथ एक घंटे का नल
+10. <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a> - एक ब्याज के साथ एक घंटे का नल
+11. <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a> - क्रिप्टो नल खेल
 
 क्रिप्टो faucets के साथ आपका अनुभव क्या है? क्या आपने उनकी कोई कोशिश की है? क्या आपकी कोई पसंदीदा साइट है?
 
 <div id="commento"></div>
 <script src="https://cdn.commento.io/js/commento.js"></script>
-
----
-#### हमारे नए क्रिप्टो-समुदाय में शामिल हों
-
-यह साइट, all-faucets.com विशेष रूप से क्रिप्टोक्यूरेंसी faucets पर केंद्रित है। और जबकि डोमेन नाम का अर्थ है कि हम "सभी" नल को सूचीबद्ध करेंगे, वास्तव में केवल कुछ मुट्ठी भर अच्छे नल हैं जो आपके समय और प्रयास के लायक हैं। हालांकि, कई अन्य तरीके हैं कि आप क्रिप्टोक्यूरेंसी कैसे कमा सकते हैं - खनन, स्टैकिंग, आईपीओ और एयरड्रॉप, क्रायो जॉब्स और इतने पर। बहुत सारे अवसर हैं, लेकिन आपको अपने लाभ के लिए इन अवसरों का उपयोग करने के लिए गुणवत्ता की जानकारी की आवश्यकता है।
-
-यह इस कारण से है कि मैंने एक नई सामुदायिक साइट <a href="https://www.staleblock.com/" target="_blank">StaleBlock.com</a>.com शुरू की है। क्रिप्टो की दुनिया क्रिप्टो faucets से बहुत आगे जाती है! <i>StaleBlock.com</i> पर एक बुद्धिमान क्रिप्टो-समुदाय बनाने के लिए मुझसे जुड़ें।
